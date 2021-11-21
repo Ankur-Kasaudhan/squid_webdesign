@@ -1,7 +1,7 @@
+![web](https://user-images.githubusercontent.com/69796327/142758959-d89d967d-669e-4c45-bada-33bb8f18801f.PNG)
 # squid_webdesign
 
 A new Flutter project.
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
